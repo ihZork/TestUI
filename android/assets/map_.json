@@ -1,0 +1,7148 @@
+[
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 0,
+	"walkable": true,
+	"worldPosition": {
+		"x": 95.3,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 1,
+	"walkable": true,
+	"worldPosition": {
+		"x": 91,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 2,
+	"walkable": true,
+	"worldPosition": {
+		"x": 86.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 3,
+	"walkable": true,
+	"worldPosition": {
+		"x": 82.3,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 4,
+	"walkable": true,
+	"worldPosition": {
+		"x": 78,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 5,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 6,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 7,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 8,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 9,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 10,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 11,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 12,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 13,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 14,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 15,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 16,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 17,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 18,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 19,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 20,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 21,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 22,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 82.5
+	},
+	"mapPosition": {
+		"x": 11,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 23,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 24,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 25,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 26,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 27,
+	"walkable": true,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 28,
+	"walkable": true,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 29,
+	"walkable": true,
+	"worldPosition": {
+		"x": -78,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 30,
+	"walkable": true,
+	"worldPosition": {
+		"x": -82.3,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 31,
+	"walkable": true,
+	"worldPosition": {
+		"x": -86.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 32,
+	"walkable": true,
+	"worldPosition": {
+		"x": -91,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 33,
+	"walkable": true,
+	"worldPosition": {
+		"x": -95.3,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 34,
+	"walkable": true,
+	"worldPosition": {
+		"x": -91,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 35,
+	"walkable": true,
+	"worldPosition": {
+		"x": -86.7,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 36,
+	"walkable": true,
+	"worldPosition": {
+		"x": -82.3,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 37,
+	"walkable": true,
+	"worldPosition": {
+		"x": -78,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 38,
+	"walkable": true,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 39,
+	"walkable": true,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 40,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 41,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 42,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 43,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 44,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 45,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 46,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 47,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 48,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 49,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 50,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 51,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 52,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 53,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 54,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 55,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": -82.5
+	},
+	"mapPosition": {
+		"x": -11,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 56,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 57,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 58,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 59,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 60,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 61,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 62,
+	"walkable": true,
+	"worldPosition": {
+		"x": 78,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 63,
+	"walkable": true,
+	"worldPosition": {
+		"x": 82.3,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 64,
+	"walkable": true,
+	"worldPosition": {
+		"x": 86.7,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 65,
+	"walkable": true,
+	"worldPosition": {
+		"x": 91,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 11
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 66,
+	"walkable": true,
+	"worldPosition": {
+		"x": 86.7,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 67,
+	"walkable": true,
+	"worldPosition": {
+		"x": 82.3,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 68,
+	"walkable": true,
+	"worldPosition": {
+		"x": 78,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 69,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 70,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 71,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 72,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 73,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 74,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 75,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 76,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 77,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 78,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 79,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 80,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 81,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 82,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 83,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 84,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 85,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 86,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": 75
+	},
+	"mapPosition": {
+		"x": 10,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 87,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 88,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 89,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 90,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 91,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 92,
+	"walkable": true,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 93,
+	"walkable": true,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 94,
+	"walkable": true,
+	"worldPosition": {
+		"x": -78,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 95,
+	"walkable": true,
+	"worldPosition": {
+		"x": -82.3,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 96,
+	"walkable": true,
+	"worldPosition": {
+		"x": -86.7,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 97,
+	"walkable": false,
+	"worldPosition": {
+		"x": -82.3,
+		"y": 3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 98,
+	"walkable": false,
+	"worldPosition": {
+		"x": -78,
+		"y": 3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 99,
+	"walkable": false,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 100,
+	"walkable": true,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 101,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 102,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 103,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 104,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 105,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 106,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 107,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 108,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 109,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 110,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 111,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 112,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 113,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 114,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 115,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 116,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": -75
+	},
+	"mapPosition": {
+		"x": -10,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 117,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 118,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 119,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 120,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 121,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 122,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 123,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 124,
+	"walkable": true,
+	"worldPosition": {
+		"x": 78,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 125,
+	"walkable": true,
+	"worldPosition": {
+		"x": 82.3,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 10
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 126,
+	"walkable": true,
+	"worldPosition": {
+		"x": 78,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 127,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 128,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 129,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 130,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 131,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 132,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 133,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 134,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 135,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 136,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 137,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 138,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 139,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 140,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 141,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 142,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 143,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 144,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 67.5
+	},
+	"mapPosition": {
+		"x": 9,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 145,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 146,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 147,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 148,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 149,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 150,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 151,
+	"walkable": true,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 152,
+	"walkable": true,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 153,
+	"walkable": false,
+	"worldPosition": {
+		"x": -78,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 154,
+	"walkable": false,
+	"worldPosition": {
+		"x": -73.7,
+		"y": 3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 155,
+	"walkable": false,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 156,
+	"walkable": false,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 157,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 158,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 159,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 160,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 161,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 162,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 163,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 164,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 165,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 166,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 167,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 168,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 169,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 170,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 171,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": -67.5
+	},
+	"mapPosition": {
+		"x": -9,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 172,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 173,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 174,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 175,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 176,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 177,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 178,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 179,
+	"walkable": true,
+	"worldPosition": {
+		"x": 73.7,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 9
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 180,
+	"walkable": true,
+	"worldPosition": {
+		"x": 69.3,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 181,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 182,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": -3,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 183,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 184,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 185,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 186,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 187,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 188,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 189,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 190,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 191,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 192,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 193,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 194,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 195,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 196,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 60
+	},
+	"mapPosition": {
+		"x": 8,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 197,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 198,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 199,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 200,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 201,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 202,
+	"walkable": true,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 203,
+	"walkable": true,
+	"worldPosition": {
+		"x": -65,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 204,
+	"walkable": false,
+	"worldPosition": {
+		"x": -69.3,
+		"y": 3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 205,
+	"walkable": false,
+	"worldPosition": {
+		"x": -65,
+		"y": 3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -7
+	},
+	"placedObject": "firTreeForest",
+	"orientation": 330,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 206,
+	"walkable": false,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 207,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 208,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 209,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 210,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 211,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 212,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 213,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 214,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 215,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 216,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 217,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 218,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 219,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 220,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": -60
+	},
+	"mapPosition": {
+		"x": -8,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 221,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 222,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 223,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 224,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 225,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 226,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 227,
+	"walkable": true,
+	"worldPosition": {
+		"x": 65,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 8
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 228,
+	"walkable": true,
+	"worldPosition": {
+		"x": 60.7,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 229,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 230,
+	"walkable": false,
+	"worldPosition": {
+		"x": 52,
+		"y": -3,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 231,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 232,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 233,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 234,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 235,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 236,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 237,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 238,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 239,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 240,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 241,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 242,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 52.5
+	},
+	"mapPosition": {
+		"x": 7,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 243,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 244,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 245,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 246,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 247,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 248,
+	"walkable": true,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 249,
+	"walkable": false,
+	"worldPosition": {
+		"x": -60.7,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 250,
+	"walkable": false,
+	"worldPosition": {
+		"x": -56.3,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 251,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 252,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 253,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 254,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 255,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 256,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 257,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 258,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 259,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 260,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 261,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 262,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 263,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": -52.5
+	},
+	"mapPosition": {
+		"x": -7,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 264,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 265,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 266,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 267,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 268,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 269,
+	"walkable": true,
+	"worldPosition": {
+		"x": 56.3,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 7
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 270,
+	"walkable": true,
+	"worldPosition": {
+		"x": 52,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 271,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 272,
+	"walkable": false,
+	"worldPosition": {
+		"x": 43.4,
+		"y": -3,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 273,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 274,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 275,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 276,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 277,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 278,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 279,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 280,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 281,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 282,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 45
+	},
+	"mapPosition": {
+		"x": 6,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 283,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 284,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 285,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 286,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 287,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 288,
+	"walkable": true,
+	"worldPosition": {
+		"x": -52,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 289,
+	"walkable": true,
+	"worldPosition": {
+		"x": -47.7,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 290,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 291,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 292,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 293,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 294,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 295,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 296,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 297,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 298,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 299,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 300,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": -45
+	},
+	"mapPosition": {
+		"x": -6,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 301,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 302,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 303,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 304,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 305,
+	"walkable": true,
+	"worldPosition": {
+		"x": 47.7,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 6
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 306,
+	"walkable": true,
+	"worldPosition": {
+		"x": 43.4,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 307,
+	"walkable": false,
+	"worldPosition": {
+		"x": 39,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 308,
+	"walkable": false,
+	"worldPosition": {
+		"x": 34.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 309,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 310,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 311,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 312,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 313,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 314,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 315,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 316,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 37.5
+	},
+	"mapPosition": {
+		"x": 5,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 317,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 318,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 319,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 320,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 321,
+	"walkable": true,
+	"worldPosition": {
+		"x": -43.4,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 322,
+	"walkable": true,
+	"worldPosition": {
+		"x": -39,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 323,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 324,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 325,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 326,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 327,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 328,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 329,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 330,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 331,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": -37.5
+	},
+	"mapPosition": {
+		"x": -5,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 332,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 333,
+	"walkable": true,
+	"worldPosition": {
+		"x": 30.4,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 334,
+	"walkable": true,
+	"worldPosition": {
+		"x": 34.7,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 335,
+	"walkable": true,
+	"worldPosition": {
+		"x": 39,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 5
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 336,
+	"walkable": false,
+	"worldPosition": {
+		"x": 34.7,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 337,
+	"walkable": false,
+	"worldPosition": {
+		"x": 30.4,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 338,
+	"walkable": true,
+	"worldPosition": {
+		"x": 26,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 339,
+	"walkable": true,
+	"worldPosition": {
+		"x": 21.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 340,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 341,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 342,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 343,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 344,
+	"walkable": false,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 30
+	},
+	"mapPosition": {
+		"x": 4,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 345,
+	"walkable": false,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -4
+	},
+	"placedObject": "firTreeForest",
+	"orientation": 180,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 346,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 347,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 348,
+	"walkable": true,
+	"worldPosition": {
+		"x": -34.7,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 349,
+	"walkable": true,
+	"worldPosition": {
+		"x": -30.4,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 350,
+	"walkable": true,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 351,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 352,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 353,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 354,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 355,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 356,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": -30
+	},
+	"mapPosition": {
+		"x": -4,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 357,
+	"walkable": false,
+	"worldPosition": {
+		"x": 21.7,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 358,
+	"walkable": false,
+	"worldPosition": {
+		"x": 26,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 359,
+	"walkable": false,
+	"worldPosition": {
+		"x": 30.4,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 4
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 360,
+	"walkable": false,
+	"worldPosition": {
+		"x": 26,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 361,
+	"walkable": false,
+	"worldPosition": {
+		"x": 21.7,
+		"y": -3,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 362,
+	"walkable": true,
+	"worldPosition": {
+		"x": 17.4,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 363,
+	"walkable": true,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 364,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 365,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 366,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 22.5
+	},
+	"mapPosition": {
+		"x": 3,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 367,
+	"walkable": false,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -3
+	},
+	"placedObject": "HouseType_0003",
+	"orientation": 300,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 368,
+	"walkable": true,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 369,
+	"walkable": false,
+	"worldPosition": {
+		"x": -26,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -3
+	},
+	"placedObject": "HouseType_0003",
+	"orientation": 180,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 370,
+	"walkable": false,
+	"worldPosition": {
+		"x": -21.7,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -2
+	},
+	"placedObject": "firTreeForest",
+	"orientation": 90,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 371,
+	"walkable": true,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 372,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 373,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 374,
+	"walkable": false,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 375,
+	"walkable": false,
+	"worldPosition": {
+		"x": 13,
+		"y": -3,
+		"z": -22.5
+	},
+	"mapPosition": {
+		"x": -3,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 376,
+	"walkable": false,
+	"worldPosition": {
+		"x": 17.4,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 377,
+	"walkable": false,
+	"worldPosition": {
+		"x": 21.7,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 3
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 378,
+	"walkable": false,
+	"worldPosition": {
+		"x": 17.4,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 379,
+	"walkable": false,
+	"worldPosition": {
+		"x": 13,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 380,
+	"walkable": true,
+	"worldPosition": {
+		"x": 8.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 381,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 382,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 15
+	},
+	"mapPosition": {
+		"x": 2,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 383,
+	"walkable": true,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 384,
+	"walkable": false,
+	"worldPosition": {
+		"x": -17.4,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -2
+	},
+	"placedObject": "firTreeForest",
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 385,
+	"walkable": false,
+	"worldPosition": {
+		"x": -13,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": -1
+	},
+	"placedObject": "firTreeForest",
+	"orientation": 150,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 386,
+	"walkable": true,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 387,
+	"walkable": false,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 388,
+	"walkable": false,
+	"worldPosition": {
+		"x": 8.7,
+		"y": -3,
+		"z": -15
+	},
+	"mapPosition": {
+		"x": -2,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 389,
+	"walkable": false,
+	"worldPosition": {
+		"x": 13,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 2
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 390,
+	"walkable": true,
+	"worldPosition": {
+		"x": 4.4,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 391,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": 7.5
+	},
+	"mapPosition": {
+		"x": 1,
+		"y": -1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 392,
+	"walkable": false,
+	"worldPosition": {
+		"x": -8.7,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": -1
+	},
+	"placedObject": "HouseType_0003",
+	"orientation": 150,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 393,
+	"walkable": true,
+	"worldPosition": {
+		"x": -4.4,
+		"y": 0,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 394,
+	"walkable": false,
+	"worldPosition": {
+		"x": 4.4,
+		"y": -3,
+		"z": -7.5
+	},
+	"mapPosition": {
+		"x": -1,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 395,
+	"walkable": false,
+	"worldPosition": {
+		"x": 8.7,
+		"y": -3,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 1
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+},
+{
+	"class": "ru.blindspace.game.Utils.HexGridCell",
+	"index": 396,
+	"walkable": true,
+	"worldPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"mapPosition": {
+		"x": 0,
+		"y": 0
+	},
+	"placedObject": null,
+	"orientation": 0,
+	"type": 0,
+	"height": 0
+}
+]

@@ -1,0 +1,17 @@
+{
+  "prototypes":
+  [
+      {
+        "class" : "ru.blindspace.game.Utils.MonsterPrototype",
+        "name" : "goblin",
+        "atk" : 10,
+        "def" : 3
+      },
+      {
+        "class" : "ru.blindspace.game.Utils.MonsterPrototype",
+        "name" : "hobbit",
+        "atk" : 10,
+        "def" : 3
+      }
+    ]
+}
